@@ -4,7 +4,7 @@
 * CSS
 ## Links
 
-Website link [Speacial Design](https://muhammedalsin.github.io/Mountains_HTML_CSS/).
+Website link [Mountains_HTML_CSS](https://muhammedalsin.github.io/Mountains_HTML_CSS/).
 
 
 
